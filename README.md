@@ -18,7 +18,6 @@
 
 В этом [репозитории](https://github.com/DenissDA/MyProjects) вы найдете все мои учебные проекты, которые я выполнял во время обучения в Яндекс Практикуме. Проекты отсортированы по времени, от самых ранних до последних.
 
-<h3> Мой стек инструментов в работе: </h3>
 <h3>Мой стек инструментов в работе:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
